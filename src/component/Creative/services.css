@@ -1,0 +1,44 @@
+.pic-size{
+    height: 470px;
+}
+
+.cards{
+    border-radius: 10px;
+border: 1px solid rgba(105, 105, 105, 0.10);
+background: #FFF;
+padding: 70px;
+}
+
+.marg{
+    margin-top: 200px;
+}
+.img-size{
+    width: 100px;
+height: 50px;
+
+}
+.paddings{
+    padding-left: 80px;
+}
+.margins{
+    padding-top: 150px;
+}
+
+.text-style{
+    color: #7854F7;
+}
+
+.bg-color-1{
+    background-color: #F5F4F0;
+}
+
+.bg-color-2{
+    background-color: #7854F7;
+    
+}
+
+.btn-color-2{
+    border-radius: 5px;
+    border: none;
+background: #FFF;
+}

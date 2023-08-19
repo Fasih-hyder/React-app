@@ -1,0 +1,47 @@
+.btn-color{
+   background-color: #756BEE;
+   border: none;
+}
+.bg-color{
+    background: #FBF7EC;
+}
+.font-color{
+    color: #756BEE;
+}
+
+.font-style-1{
+font-size: 55px;
+font-style: normal; 
+font-weight: 700;
+line-height: 68px; /* 114.706% */
+}
+
+.border{
+    border: none;
+}
+
+.img-size-1{
+    height: 300px;
+}
+
+.img-size-2{
+    height: 120px;
+}
+
+.imges-size {
+    right: 200px;
+}
+
+@media (max-width: 768px) {
+    .font-style-1{
+        font-size: 35px;
+        font-style: normal; 
+        font-weight: 700;
+        line-height: 48px; /* 114.706% */
+        }
+
+        
+        
+}
+
+
